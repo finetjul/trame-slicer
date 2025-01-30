@@ -23,7 +23,7 @@ this library with caution.
 Installing
 ----------
 
-The library can be installed as follows :
+The library can be installed as follows:
 
 * Setup a Python 3.10 environment
 * Activate your environment
@@ -51,7 +51,7 @@ To start using the trame-slicer library, have a look and run the `medical viewer
 Features
 --------
 
-The following subset of 3D Slicer features are currently supported :
+The following subset of 3D Slicer features are currently supported:
 
 * (limited) file loading
 * Volume files (DCM, NRRD, NIFTI, ...)
@@ -66,7 +66,7 @@ The following subset of 3D Slicer features are currently supported :
 Work in progress
 ----------------
 
-To make it easier for users to use trame-slicer, the following work are in progress :
+To make it easier for users to use trame-slicer, the following work are in progress:
 
 * Slicer wheel generation merge into 3D Slicer's preview release
 * CI changes to build the Slicer wheel along 3D Slicer's release
@@ -86,10 +86,11 @@ Please look at the `LICENSE <.LICENSE/>`_ file for more information.
 Acknowledgment
 --------------
 
-This library was funded by the following projects :
+This project was mainly funded by the following grants:
 
-* `Cure Overgrowth Syndromes (COSY) RHU Project <https://rhu-cosy.com/en/accueil-english/>`_.
-* `Handling heterogeneous Imaging and signal data for analysing the Neurodevelopmental Trajectories of premature newborns (HINT) ANR project <https://anr-hint.pages.in2p3.fr/>`_
+* ANR-18-RHUS-0005: `Cure Overgrowth Syndromes (COSY) RHU Project <https://rhu-cosy.com/en/accueil-english/>`_. from the French Agence Nationale de la
+Recherche.
+* ANR-22-CE45-0034: `Handling heterogeneous Imaging and signal data for analysing the Neurodevelopmental Trajectories of premature newborns (HINT) ANR project <https://anr-hint.pages.in2p3.fr/>`_ from the French Agence Nationale de la Recherche.
 
 This library was created from the `trame-cookicutter <https://github.com/Kitware/trame-cookiecutter/>`_ library.
 
