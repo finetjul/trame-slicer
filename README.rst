@@ -88,8 +88,7 @@ Acknowledgment
 
 This project was mainly funded by the following grants:
 
-* ANR-18-RHUS-0005: `Cure Overgrowth Syndromes (COSY) RHU Project <https://rhu-cosy.com/en/accueil-english/>`_. from the French Agence Nationale de la
-Recherche.
+* ANR-18-RHUS-0005: `Cure Overgrowth Syndromes (COSY) RHU Project <https://rhu-cosy.com/en/accueil-english/>`_. from the French Agence Nationale de la Recherche.
 * ANR-22-CE45-0034: `Handling heterogeneous Imaging and signal data for analysing the Neurodevelopmental Trajectories of premature newborns (HINT) ANR project <https://anr-hint.pages.in2p3.fr/>`_ from the French Agence Nationale de la Recherche.
 
 This library was created from the `trame-cookicutter <https://github.com/Kitware/trame-cookiecutter/>`_ library.
